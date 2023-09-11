@@ -1,0 +1,23 @@
+{
+	"manifest_version": "ext-v1",
+	"name": "EXTAPP  - Happy Porting",
+	"short_name": "EXTAPP",
+	"version": "1.0.1",
+	"description": "A new ext project",
+	"author": "EXT, Inc.",
+	"homepage_url": "",
+	"icons": {
+		"128": "icons/extension-tutorial-icon.png",
+		"background": "icons/extension-tutorial-background.png",
+		"banner": "icons/extension-tutorial-banner.png"
+	},
+	"scripts": [
+		"main.js"
+	],
+	"modules": {
+		"runtime": {},
+		"tabs": {},
+		"windows": {},
+		"webviews": {}
+	}
+}
