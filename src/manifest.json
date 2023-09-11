@@ -4,7 +4,7 @@
 	"short_name": "EXTAPP",
 	"version": "1.0.1",
 	"description": "A new ext project",
-	"author": "EXT, Inc.",
+	"author": "",
 	"homepage_url": "",
 	"icons": {
 		"128": "icons/extension-tutorial-icon.png",
