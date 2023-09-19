@@ -15,9 +15,21 @@
 		"main.js"
 	],
 	"modules": {
-		"runtime": {},
-		"tabs": {},
-		"windows": {},
-		"webviews": {}
+		"runtime": {
+			"permissions": ["*"],
+			"module_version": "1.2.1"
+		},
+		"tabs": {
+			"permissions": ["*"],
+			"module_version": "1.1.0"
+		},
+		"windows": {
+			"permissions": ["*"],
+			"module_version": "1.1.0"
+		},
+		"webviews": {
+			"permissions": ["*"],
+			"module_version": "1.0.2"
+		}
 	}
 }
